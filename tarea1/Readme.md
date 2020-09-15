@@ -2,7 +2,8 @@
 
 -Si se quiere volver a correr toca darle en make clean y luego el make 
  
-#Requisitos:
+# Requisitos:
 
 * Tener sistema operativo Linux o MACos
 * Tener instalado Makefile, c++, gnuplot, okular 
+
